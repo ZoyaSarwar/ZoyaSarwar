@@ -32,12 +32,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZoyaSarwar&theme=react-dark&hide_border=true" />
 </p>
 
-### 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoyaSarwar&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" />
-</p>
-
 
 ## 🛠️ Tech Stack
 
