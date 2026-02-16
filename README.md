@@ -20,10 +20,7 @@
 
 ---
 
-### 🔥 GitHub Stats & Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZoyaSarwar&theme=radical&hide_border=false" />
-</p>
+
 
 
 ### 📈 Contribution Activity Graph
